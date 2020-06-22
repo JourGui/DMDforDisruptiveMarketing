@@ -24,7 +24,7 @@ Here  is one injecting system composed of a core, side injectors and extra chann
 ![](images/Fig9p.png)
 
 The developed DMD algorithm gaves access to disturbances (acoustic and hydrodynamic waves) in the combustion chamber that exist within highly non linear flow.
-This flow field can be seen as a matrix of non linear data.
+This flow field can be seen as a matrix of non linear data. Here the pressure, the velocity and the energy fluctuations are displayed.
 
 ![](images/Fig6ap.png)
 ![](images/Fig6bp.png)
